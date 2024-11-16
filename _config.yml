@@ -1,0 +1,6 @@
+title: Sahil Patra
+logo: assets/images/Churn_Dashboard.png
+show_downloads: True
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme
