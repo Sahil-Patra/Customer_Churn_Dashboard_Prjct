@@ -1,0 +1,5 @@
+title: Sahil Patra
+logo: santa
+show_downloads: True
+remote theme:
+plugins: jekyll-remote-theme
