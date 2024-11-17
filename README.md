@@ -50,7 +50,7 @@ This dashboard provides a forward-looking analysis of the current customer base,
   ![Churn-risk-analysis-Dashboard](assets/images/Churn_Risk_Analysis.png)
 
 ##Project
-  ## **Project** : [![project](Customer Churn Dashboard.pbix)](assets/project/Customer-Churn-Dashboard.pbix)
+  ## **Project** : [![project](Customer Churn Dashboard.pbix)](assets/Projects/Customer Churn Dashboard.pbix)
 
 ## Dataset
 The dashboards are built using only one dataset, which is telecom customer churn dataset, which includes detailed information about customer behavior and demographics. The dataset features:
